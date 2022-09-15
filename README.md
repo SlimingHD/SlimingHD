@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SlimingHD
+- 👀 I’m interested in Minecraft modding
+- 🌱 I’m currently learning gradle (pls help me)
+- 📫 How to reach me: https://discord.gg/r2fNVSfNAA
